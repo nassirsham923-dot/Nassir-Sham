@@ -40,6 +40,6 @@ Here are the core technical tools I work with daily to build, analyze, and defen
 ---
 
 ## 13) Certifications
-* **SOC Level 1 (In Progress):** Actively progressing through the TryHackMe Security Operations Center pathway to master log analysis, traffic monitoring, and incident response.
+* **Cisco Packet Tracer / Networking (In Progress):** Actively designing, configuring, and simulating network topologies to master routing, switching, and network architecture fundamentals.
 * **Diploma in Cybersecurity & Computer Networks (In Progress):** Third-semester student building core infrastructure and defensive engineering principles.
 
