@@ -40,6 +40,13 @@ Here are the core technical tools I work with daily to build, analyze, and defen
 ---
 
 ## 13) Certifications
-* **Cisco Packet Tracer / Networking (In Progress):** Actively designing, configuring, and simulating network topologies to master routing, switching, and network architecture fundamentals.
+### 🌐 Cisco Packet Tracer: Network Design
+**Status:** 🟢 Completed 
+
+* **Overview:** Designed and configured secure network topologies.
+* **Skills:** Routing, Switching, VLANs, Subnetting, and Device Hardening.
+* **Credential:** <img width="1080" height="1487" alt="cisco_cert" src="https://github.com/user-attachments/assets/e06848e1-72ac-4202-b32c-caa10e7d35fd" />
+
+  
 * **Diploma in Cybersecurity & Computer Networks (In Progress):** Third-semester student building core infrastructure and defensive engineering principles.
 
