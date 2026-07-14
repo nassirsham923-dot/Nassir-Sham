@@ -45,7 +45,9 @@ Here are the core technical tools I work with daily to build, analyze, and defen
 
 * **Overview:** Designed and configured secure network topologies.
 * **Skills:** Routing, Switching, VLANs, Subnetting, and Device Hardening.
-* **Credential:** <img width="1080" height="1487" alt="cisco_cert" src="https://github.com/user-attachments/assets/e06848e1-72ac-4202-b32c-caa10e7d35fd" />
+* **Credential:** <img width="1078" height="713" alt="cisco_cert" src="https://github.com/user-attachments/assets/d7b0e01e-fafb-4d81-a5f9-dc0597c068b2" />
+
+
 
   
 * **Diploma in Cybersecurity & Computer Networks (In Progress):** Third-semester student building core infrastructure and defensive engineering principles.
